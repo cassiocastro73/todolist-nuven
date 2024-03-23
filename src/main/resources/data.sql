@@ -1,0 +1,2 @@
+INSERT INTO todos (titulo, descricao, vencimento) VALUES ('Teste1', 'Descrição teste 1', '20-03-2024');
+INSERT INTO todos (titulo, descricao, vencimento) VALUES ('Teste2', 'Descrição teste 2', '20-03-2023');

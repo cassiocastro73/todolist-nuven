@@ -17,7 +17,7 @@ public class Todo {
 	private String descricao;
 	private String vencimento;
 	
-	
+
 	public Long getId() {
 		return id;
 	}
